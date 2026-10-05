@@ -39,5 +39,37 @@
         "sha256": "2acac4bc654ccbc8bbc078e5b5d0475369f8ef2798ffa42727e1ab5eddf011a4"
       }
     }
+  },
+  "tag": {
+    "version": 5,
+    "tag": "tag-v5",
+    "date": "2026-10-06",
+    "notes": [],
+    "files": {
+      "bin": {
+        "name": "tag-5.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5.bin",
+        "size": 19748,
+        "sha256": "258909cb8d1b4fe3c65ff444f8f54ed9074113de6908521d40fc2f9eb279aa06"
+      },
+      "dat": {
+        "name": "tag-5.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5.dat",
+        "size": 14,
+        "sha256": "f9550f4f4737b80cce3cf7de96aa03fe0db05f69706082f7ec857413df36979e"
+      },
+      "dfu": {
+        "name": "tag-5-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5-dfu.zip",
+        "size": 14805,
+        "sha256": "cb323b5ef0ef599dc9109ecd14641f0fc2448a521f1cd4d0af8e00a1b8aa2c7a"
+      },
+      "full": {
+        "name": "tag-5-full.hex",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5-full.hex",
+        "size": 394288,
+        "sha256": "787a487f55db6260b12dcbdedea1dd0a25adeeabb9a8991c29fa6e225433fe0c"
+      }
+    }
   }
 }
