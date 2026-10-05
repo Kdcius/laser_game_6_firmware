@@ -21,22 +21,22 @@
     }
   },
   "hub": {
-    "version": "1.0.0",
-    "tag": "hub-v1.0.0",
-    "date": "2026-10-06",
+    "version": "1.0.1",
+    "tag": "hub-v1.0.1",
+    "date": "2026-10-05",
     "notes": [],
     "files": {
       "ota": {
-        "name": "hub-1.0.0.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.0/hub-1.0.0.bin",
+        "name": "hub-1.0.1.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.1/hub-1.0.1.bin",
         "size": 963296,
-        "sha256": "a0753e07e37c0b29145210559e05bf9ab527051e11e990a9b600ed2956e61a29"
+        "sha256": "2ad6905ff6a4fb562922068b6735975eb982040ab0c982202b0a3627123208a1"
       },
       "full": {
-        "name": "hub-1.0.0-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.0/hub-1.0.0-full.bin",
+        "name": "hub-1.0.1-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.1/hub-1.0.1-full.bin",
         "size": 1094368,
-        "sha256": "2acac4bc654ccbc8bbc078e5b5d0475369f8ef2798ffa42727e1ab5eddf011a4"
+        "sha256": "ef81cd768f830b628f3cfd34c26c54def54b4784f986d540fddb6ac427442ad0"
       }
     }
   },
