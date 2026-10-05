@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "pistol": {
+    "version": "1.0.0",
+    "tag": "pistol-v1.0.0",
+    "date": "2026-10-06",
+    "notes": [],
+    "files": {
+      "ota": {
+        "name": "pistol-1.0.0.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.0/pistol-1.0.0.bin",
+        "size": 1084208,
+        "sha256": "3d74adfef231b43b342db2bf1c0a3b5743b133e99494b5f19b79337baca97d47"
+      },
+      "full": {
+        "name": "pistol-1.0.0-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.0/pistol-1.0.0-full.bin",
+        "size": 1149744,
+        "sha256": "b34811a353798ce7f583b5fbdf221cbe348f6e177b516ed3feb3b596c6382780"
+      }
+    }
+  }
+}
