@@ -41,34 +41,34 @@
     }
   },
   "tag": {
-    "version": 5,
-    "tag": "tag-v5",
-    "date": "2026-10-06",
+    "version": 6,
+    "tag": "tag-v6",
+    "date": "2026-10-05",
     "notes": [],
     "files": {
       "bin": {
-        "name": "tag-5.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5.bin",
+        "name": "tag-6.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v6/tag-6.bin",
         "size": 19748,
-        "sha256": "258909cb8d1b4fe3c65ff444f8f54ed9074113de6908521d40fc2f9eb279aa06"
+        "sha256": "62648c87f9b1e36a6a08005d0a0fa54d0915470f3d23e65c2154085f5349cd29"
       },
       "dat": {
-        "name": "tag-5.dat",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5.dat",
+        "name": "tag-6.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v6/tag-6.dat",
         "size": 14,
-        "sha256": "f9550f4f4737b80cce3cf7de96aa03fe0db05f69706082f7ec857413df36979e"
+        "sha256": "e6d2a5a3c7db5e9dc505a16f8ac5cf8a41cbad0d91626dd30f4a89ed84fdb406"
       },
       "dfu": {
-        "name": "tag-5-dfu.zip",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5-dfu.zip",
+        "name": "tag-6-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v6/tag-6-dfu.zip",
         "size": 14805,
-        "sha256": "cb323b5ef0ef599dc9109ecd14641f0fc2448a521f1cd4d0af8e00a1b8aa2c7a"
+        "sha256": "93c2eb0646d4a5c86e3ad2463f4025a2928a19f66d074469b93054d40930e2b7"
       },
       "full": {
-        "name": "tag-5-full.hex",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v5/tag-5-full.hex",
+        "name": "tag-6-full.hex",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v6/tag-6-full.hex",
         "size": 394288,
-        "sha256": "787a487f55db6260b12dcbdedea1dd0a25adeeabb9a8991c29fa6e225433fe0c"
+        "sha256": "818df12206c2e39642ca3709c99e10b6f4777d625c8141faec24b7c34dd4a383"
       }
     }
   }
