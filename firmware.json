@@ -1,24 +1,25 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.2",
-    "tag": "pistol-v1.0.2",
+    "version": "1.0.3",
+    "tag": "pistol-v1.0.3",
     "date": "2026-10-06",
     "notes": [
-      "Pistol: charged shot, hold the trigger to charge up to x5"
+      "Hub: knows the charge level of each hit",
+      "Pistol: charge, charged shot and vent events for the phone"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.2.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.2/pistol-1.0.2.bin",
-        "size": 1086080,
-        "sha256": "e8fadc75d470cc229f37b78d1a68edf641220235a59d2869ad0dcd615e386cc6"
+        "name": "pistol-1.0.3.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.3/pistol-1.0.3.bin",
+        "size": 1086240,
+        "sha256": "38041203b38a79462d5e7a1a81870feccefa5c0fdf13afe3237f8bdab0fb8faa"
       },
       "full": {
-        "name": "pistol-1.0.2-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.2/pistol-1.0.2-full.bin",
-        "size": 1151616,
-        "sha256": "59fb3cd3d39bf4b357e94a16a358fcf0d3ae0643bd3af9acd2df32b6236c32a7"
+        "name": "pistol-1.0.3-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.3/pistol-1.0.3-full.bin",
+        "size": 1151776,
+        "sha256": "e5c5fa9540b354a025e117b9eec6a943da36b9d5e5e3a161181f4e7e33389f42"
       }
     }
   },
