@@ -21,22 +21,24 @@
     }
   },
   "hub": {
-    "version": "1.0.1",
-    "tag": "hub-v1.0.1",
-    "date": "2026-10-05",
-    "notes": [],
+    "version": "1.0.2",
+    "tag": "hub-v1.0.2",
+    "date": "2026-10-06",
+    "notes": [
+      "Pistol: charged shot, hold the trigger to charge up to x5"
+    ],
     "files": {
       "ota": {
-        "name": "hub-1.0.1.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.1/hub-1.0.1.bin",
+        "name": "hub-1.0.2.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.2/hub-1.0.2.bin",
         "size": 963296,
-        "sha256": "2ad6905ff6a4fb562922068b6735975eb982040ab0c982202b0a3627123208a1"
+        "sha256": "d0775d499f9ce9517f51f0e0e9e14f3e0be063957a4faa50862d3db8d8d595bb"
       },
       "full": {
-        "name": "hub-1.0.1-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.1/hub-1.0.1-full.bin",
+        "name": "hub-1.0.2-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.2/hub-1.0.2-full.bin",
         "size": 1094368,
-        "sha256": "ef81cd768f830b628f3cfd34c26c54def54b4784f986d540fddb6ac427442ad0"
+        "sha256": "ed1a02889a5fd3c1cf12c7f5fdf4ca8d49bbae59dc4736b095eb4879a04ca5d2"
       }
     }
   },
