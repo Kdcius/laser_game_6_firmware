@@ -46,36 +46,36 @@
     }
   },
   "tag": {
-    "version": 8,
-    "tag": "tag-v8",
-    "date": "2026-10-06",
+    "version": 9,
+    "tag": "tag-v9",
+    "date": "2026-10-12",
     "notes": [
-      "Hub: knows the charge level of each hit"
+      "Hub API: the hub keeps the team count of the game mode"
     ],
     "files": {
       "bin": {
-        "name": "tag-8.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v8/tag-8.bin",
+        "name": "tag-9.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v9/tag-9.bin",
         "size": 19920,
-        "sha256": "d295c5d5eb766316bfc1338132c47f07908eaef48d5fa52f091c6b5f5c82b42b"
+        "sha256": "4915716b4bf08e6df4394d7e9c68948012e0348da42edcd1bd7a2959ce57819b"
       },
       "dat": {
-        "name": "tag-8.dat",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v8/tag-8.dat",
+        "name": "tag-9.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v9/tag-9.dat",
         "size": 14,
-        "sha256": "3eb8f0f41b67c91670a3c2dd423750bf1c2e290a5274532fccb18271b28d5c1d"
+        "sha256": "18c5840f14bd2005d31d5ad2da8d5603391b709fea07170d8898c421e454c4e5"
       },
       "dfu": {
-        "name": "tag-8-dfu.zip",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v8/tag-8-dfu.zip",
-        "size": 14957,
-        "sha256": "3f9a3d6640378137f321b96fe014f39a0e3ce681cbe463b30a7eac0493ee9fbd"
+        "name": "tag-9-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v9/tag-9-dfu.zip",
+        "size": 14956,
+        "sha256": "f7b4a138b5d4bf466ab59c596c7c676854b7b4c849dbb939957774d10d457630"
       },
       "full": {
-        "name": "tag-8-full.hex",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v8/tag-8-full.hex",
+        "name": "tag-9-full.hex",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v9/tag-9-full.hex",
         "size": 394752,
-        "sha256": "b96b60b8095cf69ec5092bfea111e240419e2fd6a12498d4efa4507466c91943"
+        "sha256": "d523764927ac1166979ce884e428ef31af98d1601a3a32d3ac81e2c30b427caa"
       }
     }
   }
