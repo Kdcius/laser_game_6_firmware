@@ -1,25 +1,24 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.3",
-    "tag": "pistol-v1.0.3",
-    "date": "2026-10-06",
+    "version": "1.0.4",
+    "tag": "pistol-v1.0.4",
+    "date": "2026-10-12",
     "notes": [
-      "Hub: knows the charge level of each hit",
-      "Pistol: charge, charged shot and vent events for the phone"
+      "Hub API: the hub keeps the team count of the game mode"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.3.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.3/pistol-1.0.3.bin",
+        "name": "pistol-1.0.4.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.4/pistol-1.0.4.bin",
         "size": 1086240,
-        "sha256": "38041203b38a79462d5e7a1a81870feccefa5c0fdf13afe3237f8bdab0fb8faa"
+        "sha256": "019271cd07185579482b1029d8de65bf2d4db6a3883b30305f851bd93c0cf619"
       },
       "full": {
-        "name": "pistol-1.0.3-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.3/pistol-1.0.3-full.bin",
+        "name": "pistol-1.0.4-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.4/pistol-1.0.4-full.bin",
         "size": 1151776,
-        "sha256": "e5c5fa9540b354a025e117b9eec6a943da36b9d5e5e3a161181f4e7e33389f42"
+        "sha256": "fa681d6480f499df7066748d72aeba048ca21101be18b36931705a02bab319d3"
       }
     }
   },
