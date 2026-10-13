@@ -1,24 +1,25 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.4",
-    "tag": "pistol-v1.0.4",
-    "date": "2026-10-12",
+    "version": "1.0.5",
+    "tag": "pistol-v1.0.5",
+    "date": "2026-10-13",
     "notes": [
-      "Hub API: the hub keeps the team count of the game mode"
+      "Pistol: accelerometer driver, phone updates without PSRAM",
+      "Pistol: run on the custom PCB too, board detected at boot"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.4.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.4/pistol-1.0.4.bin",
-        "size": 1086240,
-        "sha256": "019271cd07185579482b1029d8de65bf2d4db6a3883b30305f851bd93c0cf619"
+        "name": "pistol-1.0.5.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.5/pistol-1.0.5.bin",
+        "size": 1089280,
+        "sha256": "03854af0ee91c85a34ffa9ec6fcec474ffbdac8e4d340dd790cfbdf019641970"
       },
       "full": {
-        "name": "pistol-1.0.4-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.4/pistol-1.0.4-full.bin",
-        "size": 1151776,
-        "sha256": "fa681d6480f499df7066748d72aeba048ca21101be18b36931705a02bab319d3"
+        "name": "pistol-1.0.5-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.5/pistol-1.0.5-full.bin",
+        "size": 1154816,
+        "sha256": "3222866b5fda09931717140f274724afc927545427957f04c8903df680b15744"
       }
     }
   },
