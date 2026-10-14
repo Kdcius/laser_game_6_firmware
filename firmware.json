@@ -1,24 +1,25 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.6",
-    "tag": "pistol-v1.0.6",
-    "date": "2026-10-13",
+    "version": "1.0.7",
+    "tag": "pistol-v1.0.7",
+    "date": "2026-10-14",
     "notes": [
-      "Pistol: shake to reload"
+      "Pistol: battery level on the custom PCB",
+      "Pistol: game sounds on the buzzer when no phone is connected"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.6.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.6/pistol-1.0.6.bin",
-        "size": 1090192,
-        "sha256": "11163fe347d7e13e0435252ae848dbdf80c8bc261ebe54ee868a35489e38d28e"
+        "name": "pistol-1.0.7.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.7/pistol-1.0.7.bin",
+        "size": 1103520,
+        "sha256": "81288aa03ec6087df97e3989d99aba92c37bbc14ffe002546c1866f8a78ea30d"
       },
       "full": {
-        "name": "pistol-1.0.6-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.6/pistol-1.0.6-full.bin",
-        "size": 1155728,
-        "sha256": "397d5bd48ca82e26a52c6d2274bf9399f2a629f9fa2ecfa997969ea5e9ea1d5c"
+        "name": "pistol-1.0.7-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.7/pistol-1.0.7-full.bin",
+        "size": 1169056,
+        "sha256": "7bfb2dfddb6749a50726093db826c44ce52c440c94a6086bebca49f803b33b4d"
       }
     }
   },
