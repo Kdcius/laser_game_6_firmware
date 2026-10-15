@@ -24,26 +24,25 @@
     }
   },
   "hub": {
-    "version": "1.0.4",
-    "tag": "hub-v1.0.4",
-    "date": "2026-10-12",
+    "version": "1.0.5",
+    "tag": "hub-v1.0.5",
+    "date": "2026-10-15",
     "notes": [
-      "Hub: touchscreen UI from the design handoff",
-      "Hub API: the hub keeps the team count of the game mode",
-      "Hub: move to the 4848S040 touch panel, games start from the screen"
+      "Hub: sharper text, Classic or Sharp in Display settings",
+      "Hub: show each pistol's battery, readable % on the screen"
     ],
     "files": {
       "ota": {
-        "name": "hub-1.0.4.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.4/hub-1.0.4.bin",
-        "size": 1515680,
-        "sha256": "1b26859b0fbd51cfcea854b74015da530c6de94d8a8d5b83f2f860a634437c65"
+        "name": "hub-1.0.5.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.5/hub-1.0.5.bin",
+        "size": 1576912,
+        "sha256": "ef4bd1c37f82af9e6b1bceae2b94a9fa01da3bd4af459f31dc080ead03a05cc4"
       },
       "full": {
-        "name": "hub-1.0.4-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.4/hub-1.0.4-full.bin",
-        "size": 1646752,
-        "sha256": "2f7cc95883dea8b48faaa141179e0abe3f01905597033df813aa84b9627588ab"
+        "name": "hub-1.0.5-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.5/hub-1.0.5-full.bin",
+        "size": 1707984,
+        "sha256": "105e1816a6b9a88fcb01f19fd1601f3a38828bf00506f5bb1a1e022f316b2875"
       }
     }
   },
