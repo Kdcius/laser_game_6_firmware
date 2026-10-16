@@ -1,25 +1,28 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.7",
-    "tag": "pistol-v1.0.7",
-    "date": "2026-10-14",
+    "version": "1.0.8",
+    "tag": "pistol-v1.0.8",
+    "date": "2026-10-16",
     "notes": [
-      "Pistol: battery level on the custom PCB",
-      "Pistol: game sounds on the buzzer when no phone is connected"
+      "Shocker updates from the phone app",
+      "Pistol: shocker sensitivity, only ever shorter",
+      "Pistol: report the shocker to the phone",
+      "Pistol: link to the shocker, SHOCK on hit and elimination",
+      "Shared: pistol <-> shocker BLE contract and codec"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.7.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.7/pistol-1.0.7.bin",
-        "size": 1103520,
-        "sha256": "81288aa03ec6087df97e3989d99aba92c37bbc14ffe002546c1866f8a78ea30d"
+        "name": "pistol-1.0.8.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.8/pistol-1.0.8.bin",
+        "size": 1112752,
+        "sha256": "78d6e1d70bd984bd46f7cce13478eadf71e9951216acd2f33b80e60f63c23253"
       },
       "full": {
-        "name": "pistol-1.0.7-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.7/pistol-1.0.7-full.bin",
-        "size": 1169056,
-        "sha256": "7bfb2dfddb6749a50726093db826c44ce52c440c94a6086bebca49f803b33b4d"
+        "name": "pistol-1.0.8-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.8/pistol-1.0.8-full.bin",
+        "size": 1178288,
+        "sha256": "6260018cf793b2679bb960b8519ec0329016a59b16489979adee64e3270960f3"
       }
     }
   },
