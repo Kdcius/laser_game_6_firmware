@@ -27,25 +27,27 @@
     }
   },
   "hub": {
-    "version": "1.0.5",
-    "tag": "hub-v1.0.5",
-    "date": "2026-10-15",
+    "version": "1.0.6",
+    "tag": "hub-v1.0.6",
+    "date": "2026-10-16",
     "notes": [
-      "Hub: sharper text, Classic or Sharp in Display settings",
-      "Hub: show each pistol's battery, readable % on the screen"
+      "Hub: game sounds on the speaker, the app's scifi pack",
+      "Hub: speaker driver (I2S amplifier)",
+      "Pistol: report the shocker to the phone",
+      "Shared: pistol <-> shocker BLE contract and codec"
     ],
     "files": {
       "ota": {
-        "name": "hub-1.0.5.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.5/hub-1.0.5.bin",
-        "size": 1576912,
-        "sha256": "ef4bd1c37f82af9e6b1bceae2b94a9fa01da3bd4af459f31dc080ead03a05cc4"
+        "name": "hub-1.0.6.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.6/hub-1.0.6.bin",
+        "size": 2106656,
+        "sha256": "50ab01a9b135e07026cbf028a307cd1c37668a0a3d5afc6ac3e6c739cfd7316c"
       },
       "full": {
-        "name": "hub-1.0.5-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.5/hub-1.0.5-full.bin",
-        "size": 1707984,
-        "sha256": "105e1816a6b9a88fcb01f19fd1601f3a38828bf00506f5bb1a1e022f316b2875"
+        "name": "hub-1.0.6-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.6/hub-1.0.6-full.bin",
+        "size": 2237728,
+        "sha256": "dd0deff7878513f85a46046aeec1e38e547579250a2d725795259f00578d5693"
       }
     }
   },
