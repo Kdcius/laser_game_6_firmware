@@ -52,38 +52,36 @@
     }
   },
   "tag": {
-    "version": 10,
-    "tag": "tag-v10",
-    "date": "2026-10-16",
+    "version": 11,
+    "tag": "tag-v11",
+    "date": "2026-10-27",
     "notes": [
-      "Pistol: report the shocker to the phone",
-      "Shocker: firmware for the shock wristband (nRF52840)",
-      "Shared: pistol <-> shocker BLE contract and codec"
+      "Tag: UPDATE command, firmware version in stats"
     ],
     "files": {
       "bin": {
-        "name": "tag-10.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v10/tag-10.bin",
-        "size": 19920,
-        "sha256": "9da14b5c6159e0f3b961d02e9cbfdcb8bab6d6958d12cf3626cb8de4a46c0144"
+        "name": "tag-11.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11.bin",
+        "size": 20156,
+        "sha256": "8ff3016fbf9d4751c85f5421cbeca33662ad02bddb8e02b3186b68c8acb03d6f"
       },
       "dat": {
-        "name": "tag-10.dat",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v10/tag-10.dat",
+        "name": "tag-11.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11.dat",
         "size": 14,
-        "sha256": "b5ba046b154c013beff706186a0c141852f7f4ab6dc5aefb70b120a2f1303214"
+        "sha256": "dae7b6c0125063472681c9c87c2a5bf47e234358fadcb079d22b2f5ec4a5cbd9"
       },
       "dfu": {
-        "name": "tag-10-dfu.zip",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v10/tag-10-dfu.zip",
-        "size": 14957,
-        "sha256": "8883fac396322e106f328732d1928c0095c463fc54e37dc8cd1314cfb5fa8ac3"
+        "name": "tag-11-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11-dfu.zip",
+        "size": 15076,
+        "sha256": "08764e6d989d5bb77aff152d14bb5614339b6146dac56ee8b0859e08c2ea9e8f"
       },
       "full": {
-        "name": "tag-10-full.hex",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v10/tag-10-full.hex",
-        "size": 394752,
-        "sha256": "160fe5544bec2371b6552898408d5c296d998450805237da7b68758128ec3ca3"
+        "name": "tag-11-full.hex",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11-full.hex",
+        "size": 395404,
+        "sha256": "ede0f600c34de9bdf1d6ad0bffb44a70311185a9834967c55d0b19b960e45bb2"
       }
     }
   },
