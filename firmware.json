@@ -1,24 +1,24 @@
 {
   "schema": 1,
   "pistol": {
-    "version": "1.0.10",
-    "tag": "pistol-v1.0.10",
-    "date": "2026-10-28",
+    "version": "1.0.11",
+    "tag": "pistol-v1.0.11",
+    "date": "2026-11-12",
     "notes": [
-      "Pistol: 4 MB flash layout, one image for 4, 8 and 16 MB modules"
+      "Shocker: DEMO command to feel the game's shocks from the app, before a game"
     ],
     "files": {
       "ota": {
-        "name": "pistol-1.0.10.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.10/pistol-1.0.10.bin",
-        "size": 1130784,
-        "sha256": "60c04fc50d475b497b0c54c21d05867f7c1ca08679bef1d7b907496e7ad14fc3"
+        "name": "pistol-1.0.11.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.11/pistol-1.0.11.bin",
+        "size": 1130832,
+        "sha256": "5ac94f36324209ebb7287152401170337dbd48d9e4b19cb1939974f251b11e82"
       },
       "full": {
-        "name": "pistol-1.0.10-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.10/pistol-1.0.10-full.bin",
-        "size": 1196320,
-        "sha256": "a99adfb9b872f8379265f7880a3bf7be295de8940f2c405261d183664f105c5c"
+        "name": "pistol-1.0.11-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/pistol-v1.0.11/pistol-1.0.11-full.bin",
+        "size": 1196368,
+        "sha256": "a3466f8b42e64c9da80141bb0105a16b5b4b8f006fccf74ad7fe73e0469d1ac2"
       }
     }
   },
