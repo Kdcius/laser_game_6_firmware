@@ -45,36 +45,36 @@
     }
   },
   "tag": {
-    "version": 11,
-    "tag": "tag-v11",
-    "date": "2026-10-27",
+    "version": 12,
+    "tag": "tag-v12",
+    "date": "2026-11-12",
     "notes": [
-      "Tag: UPDATE command, firmware version in stats"
+      "Shocker: DEMO command to feel the game's shocks from the app, before a game"
     ],
     "files": {
       "bin": {
-        "name": "tag-11.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11.bin",
+        "name": "tag-12.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v12/tag-12.bin",
         "size": 20156,
-        "sha256": "8ff3016fbf9d4751c85f5421cbeca33662ad02bddb8e02b3186b68c8acb03d6f"
+        "sha256": "a4c4d6ae4905fa2659b342f707c001fa26dd7fcd5e4488a5a485b2d2b3e4e218"
       },
       "dat": {
-        "name": "tag-11.dat",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11.dat",
+        "name": "tag-12.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v12/tag-12.dat",
         "size": 14,
-        "sha256": "dae7b6c0125063472681c9c87c2a5bf47e234358fadcb079d22b2f5ec4a5cbd9"
+        "sha256": "23c456e51f0433bb61195a1fb299abf8b38035f5151d60bcccd2815732d7a8f1"
       },
       "dfu": {
-        "name": "tag-11-dfu.zip",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11-dfu.zip",
-        "size": 15076,
-        "sha256": "08764e6d989d5bb77aff152d14bb5614339b6146dac56ee8b0859e08c2ea9e8f"
+        "name": "tag-12-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v12/tag-12-dfu.zip",
+        "size": 15077,
+        "sha256": "130547f2d4692b132a07b569fd187c698b3189d9f6cd55f4a67ab2c4e2155272"
       },
       "full": {
-        "name": "tag-11-full.hex",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v11/tag-11-full.hex",
+        "name": "tag-12-full.hex",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/tag-v12/tag-12-full.hex",
         "size": 395404,
-        "sha256": "ede0f600c34de9bdf1d6ad0bffb44a70311185a9834967c55d0b19b960e45bb2"
+        "sha256": "52ef72ce40578d34bcdc40ed19a266a560f1cf681500b809a00cad30e9a43108"
       }
     }
   },
