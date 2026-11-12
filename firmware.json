@@ -79,36 +79,36 @@
     }
   },
   "shocker": {
-    "version": 2,
-    "tag": "shocker-v2",
-    "date": "2026-10-27",
+    "version": 3,
+    "tag": "shocker-v3",
+    "date": "2026-11-12",
     "notes": [
-      "Tag: UPDATE command, firmware version in stats"
+      "Shocker: DEMO command to feel the game's shocks from the app, before a game"
     ],
     "files": {
       "bin": {
-        "name": "shocker-2.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v2/shocker-2.bin",
-        "size": 20176,
-        "sha256": "008bd46f76449ef2c65d3e1dfacda55f7fbe43087dc6593fdb46c867a1400f53"
+        "name": "shocker-3.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v3/shocker-3.bin",
+        "size": 20528,
+        "sha256": "fa9d92d8054df7c5bc030e307f0936b5978f9b4f7540b0806134e48cfe8ff307"
       },
       "dat": {
-        "name": "shocker-2.dat",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v2/shocker-2.dat",
+        "name": "shocker-3.dat",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v3/shocker-3.dat",
         "size": 14,
-        "sha256": "5acea144c4a903dd2bc632bc43bb06bd4d7373c39ef9db97952b8503e4ff1976"
+        "sha256": "c21cfe8bf5af28fc6db1deb89be6ebc553c7d3f4c3aa9fc8f7501fb7a5ab83bb"
       },
       "uf2": {
-        "name": "shocker-2.uf2",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v2/shocker-2.uf2",
-        "size": 40448,
-        "sha256": "d6e29ddcf92906f72952a11e05ff49c5169cecf157ff27824ddfa618d9c9cbb7"
+        "name": "shocker-3.uf2",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v3/shocker-3.uf2",
+        "size": 41472,
+        "sha256": "5363c0fd77d3e304cfe4232364a814307d2cb5852e31a789835bde1f5488ca3f"
       },
       "dfu": {
-        "name": "shocker-2-dfu.zip",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v2/shocker-2-dfu.zip",
-        "size": 14562,
-        "sha256": "6c80627540d8103f2f3e04319af5f5c58c708e91a2bc948e4099bac262e4feae"
+        "name": "shocker-3-dfu.zip",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/shocker-v3/shocker-3-dfu.zip",
+        "size": 14831,
+        "sha256": "95729ddb486ecdadf77f22bf4e98782bb1a9fdaa26be7990bbf28cb9e657f1df"
       }
     }
   }
