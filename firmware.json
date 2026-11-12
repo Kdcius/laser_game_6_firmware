@@ -23,24 +23,24 @@
     }
   },
   "hub": {
-    "version": "1.0.7",
-    "tag": "hub-v1.0.7",
-    "date": "2026-10-27",
+    "version": "1.0.8",
+    "tag": "hub-v1.0.8",
+    "date": "2026-11-12",
     "notes": [
-      "Tag: UPDATE command, firmware version in stats"
+      "Shocker: DEMO command to feel the game's shocks from the app, before a game"
     ],
     "files": {
       "ota": {
-        "name": "hub-1.0.7.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.7/hub-1.0.7.bin",
+        "name": "hub-1.0.8.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.8/hub-1.0.8.bin",
         "size": 2106656,
-        "sha256": "6515029c5d64f6e5a050630ddf9bf81f6a1edaa291f57d013992f0b889864eaa"
+        "sha256": "d37c5c465142e1e78bfc11502ccfbdeddf53b19cc5b0332dadd6afab33f473f6"
       },
       "full": {
-        "name": "hub-1.0.7-full.bin",
-        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.7/hub-1.0.7-full.bin",
+        "name": "hub-1.0.8-full.bin",
+        "url": "https://github.com/Kdcius/laser_game_6_firmware/releases/download/hub-v1.0.8/hub-1.0.8-full.bin",
         "size": 2237728,
-        "sha256": "43d0b2492c1ddae7775854522e098e6949f5a8e79552184f3c0c656cccb03cf3"
+        "sha256": "3d87bb01e62719c83462f59e9a0318149f12ae0fbb70310668872b1f6a793029"
       }
     }
   },
